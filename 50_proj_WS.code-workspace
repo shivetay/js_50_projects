@@ -14,9 +14,15 @@
     },
     {
       "path": "proj_5"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "proj_6"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "proj_5"
+    "liveServer.settings.multiRootWorkspaceName": "50_proj"
   }
 }
