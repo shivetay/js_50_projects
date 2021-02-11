@@ -12,3 +12,4 @@ This is a small project where I practice my JS, CSS and HTML skills. This is bas
 6. Scroll Animation
 7. Split landing page
 8. Form animation
+9. Sound Board
