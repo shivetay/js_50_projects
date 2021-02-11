@@ -11,3 +11,4 @@ This is a small project where I practice my JS, CSS and HTML skills. This is bas
 5. Blurry Loading
 6. Scroll Animation
 7. Split landing page
+8. Form animation
