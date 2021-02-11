@@ -1,4 +1,4 @@
-# 50 JS projects in 50 days
+# 50 JS projects
 
 This is a small project where I practice my JS, CSS and HTML skills. This is based on [Brad Traversy 50project50days](https://github.com/bradtraversy/50projects50days)
 
@@ -13,3 +13,4 @@ This is a small project where I practice my JS, CSS and HTML skills. This is bas
 7. Split landing page
 8. Form animation
 9. Sound Board
+10. Dad jokes generator
