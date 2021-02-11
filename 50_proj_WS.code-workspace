@@ -1,28 +1,39 @@
 {
   "folders": [
     {
+      "name": "proj_2",
       "path": "proj_2"
     },
     {
+      "name": "porj_1",
       "path": "porj_1"
     },
     {
+      "name": "proj_3",
       "path": "proj_3"
     },
     {
+      "name": "proj_4",
       "path": "proj_4"
     },
     {
+      "name": "proj_5",
       "path": "proj_5"
     },
     {
-      "path": "."
-    },
-    {
+      "name": "proj_6",
       "path": "proj_6"
     },
     {
+      "name": "proj_7",
       "path": "proj_7"
+    },
+    {
+      "name": "50_proj",
+      "path": "."
+    },
+    {
+      "path": "proj_8"
     }
   ],
   "settings": {
