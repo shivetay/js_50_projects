@@ -14,3 +14,4 @@ This is a small project where I practice my JS, CSS and HTML skills. This is bas
 8. Form animation
 9. Sound Board
 10. Dad jokes generator
+11. Event KeyCodes
