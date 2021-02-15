@@ -16,3 +16,4 @@ This is a small project where I practice my JS, CSS and HTML skills. This is bas
 10. Dad jokes generator
 11. Event KeyCodes
 12. FAQ Collapse
+13. Random Choice Picker
